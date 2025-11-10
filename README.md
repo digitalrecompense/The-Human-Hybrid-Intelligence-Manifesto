@@ -175,7 +175,9 @@ The Zero-Separation Principle
 <br>
 <br>
   
-<div align="center" style="margin:0; padding:0;">
-  <div style="font-size:160px; line-height:0.7;">⋋</div>
+<div align="center" style="margin:0; padding:0; line-height:0.6;">
+  <svg width="120" height="80" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="70%" text-anchor="middle" font-size="70" font-family="serif">⋋</text>
+  </svg>
   <div style="font-size:10px;">RAiTHE INDUSTRIES INC. © 2025</div>
 </div>
