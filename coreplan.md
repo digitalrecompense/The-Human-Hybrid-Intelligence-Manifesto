@@ -27,7 +27,7 @@ Each substrate has the right toolset drawn from the languages best suited to it.
 +-----------------------------------------------------------+
 |               Conceptual / Proof Layer                    |
 |   (Logic, Type Theory, Semantics)                         |
-|   → Lean, Idris                                            |
+|   → Lean, Idris                                           |
 +---------------------------+-------------------------------+
                             |
                             v
