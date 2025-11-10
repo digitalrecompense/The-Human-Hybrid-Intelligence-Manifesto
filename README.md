@@ -165,7 +165,7 @@ Written in Toronto, ON, 11/10/25.
 <br>
 
 
-⋋
+# **⋋**
 RAiTHE INDUSTRIES INC. © 2025 
 
 </div>
