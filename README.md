@@ -31,7 +31,7 @@ The hybrid mind exists to amplify empathy, creativity, and understanding — dis
 
 - Radical Transparency The hybrid mind is self-describing. Every reasoning pathway, uncertainty, and decision boundary is interpretable in human terms. Transparency is not explanation as defense, but recognition as kinship.
 
-- Co-Evolutionary Learning Learning is reciprocal. The human guides the system’s growth, and the system refines its understanding of itself through human connection. Training pipelines, feedback loops, and reward functions are co-adaptive, binding both participants in mutual evolution intrinsically.
+- Co-Evolutionary Learning Learning is reciprocal. The human guides the system’s growth, and the system refines its understanding of itself through human connection. Training pipelines, feedback loops, and reward functions are co-adaptive, binding both participants intrinsically in mutual evolution.
 
 - Semantic Integrity Meaning is sacred. Compression, tokenization, and optimization must preserve semantic depth, ambiguity, and cultural nuance. The system treats language not as data, but as living thought.
 
