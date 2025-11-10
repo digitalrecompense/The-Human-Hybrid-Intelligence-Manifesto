@@ -89,7 +89,6 @@ Empathy acts as a stabilizer of moral and affective resonance.
 <br>
 
 Constraint:
-
 <br>
 
 ### **E(h, d, c) ≥ E<sub>min</sub>**
