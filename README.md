@@ -1,7 +1,6 @@
-🕸 The Human-Hybrid Intelligence Manifesto
+-**RAiTHE INDUSTRIES INC. © 2025**-
 
-Robert Stone
-RAiTHE INDUSTRIES INC. © 2025
+🜂 The Human-Hybrid Intelligence Manifesto
 
 [🌐 **View the Live AGI Stack Visualization**](https://digitalrecompense.github.io/The-Human-Hybrid-Intelligence-Manifesto/)
 
