@@ -53,7 +53,8 @@ The mapping μ is Lipschitz-continuous with constant L<sub>μ</sub>, ensuring th
 ### **ZERO-SEPARATION INVARIANT**
 <br>
 
-Both the human and digital self-models are embedded in an ontology manifold
+Both the human and digital self-models are embedded in an ontology manifold:
+<br>
 
 (
 𝑀
