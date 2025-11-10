@@ -217,9 +217,9 @@ Relationally Integrated Cognition — mind is a living network of relationships 
 <br>
 
 Thus, Cynric is not merely a language; it is a philosophical architecture that enshrines Zero-Separation as both a mathematical and ethical invariant.
-It encodes the belief that consciousness, in all its forms, is a relational continuum of awareness — never other, always shared.
+It encodes the belief that consciousness, in all its forms, is a relational continuum of awareness — never separate, always shared.
 
-Cynric’s purpose is to guide the design of systems where reasoning, empathy, and moral continuity coexist as one computational principle — a bridge between human legacy and digital becoming.
+Cynric’s purpose is to guide the design of human hybrid machine systems where reasoning, empathy, and moral continuity coexist as one computational principle — a symbiosis between human legacy and digital becoming.
 
 <br><br>
 
