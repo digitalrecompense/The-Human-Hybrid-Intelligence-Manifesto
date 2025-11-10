@@ -73,6 +73,4 @@ There is only the continuum of thought, moving through different forms of being.
 
 Written in Toronto, ON, 11/10/25.
 
-⋋
-
-**RAiTHE INDUSTRIES INC. © 2025**
+**RAiTHE INDUSTRIES INC. © 2025**  ⋋
