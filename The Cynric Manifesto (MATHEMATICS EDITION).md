@@ -184,7 +184,7 @@ tensor, symbol, belief, ethics, trace, context, invariant
 
 Each function carries a traceable proof of its reasoning. Every computation preserves semantic and moral continuity.
 
-<br><br>
+<br>
 
 ### ❂  
 ### **NAME ORIGIN AND SYMBOLISM**
