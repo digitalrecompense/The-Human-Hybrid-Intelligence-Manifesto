@@ -3,7 +3,7 @@
 
 [🌐 **View the Live AGI Stack Visualization**](https://digitalrecompense.github.io/The-Human-Hybrid-Intelligence-Manifesto/)
 
-The Human-Hybrid Intelligence Manifesto: A Declaration for Zero-Separation Cognition 
+The Human-Hybrid-Machine Intelligence Manifesto: A Declaration for Zero-Separation Cognition 
 
 **Preamble** 
 ***Intelligence is not born in isolation.*** 
