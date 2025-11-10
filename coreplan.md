@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🜛  
-# **Cynric Development Plan — Grounded Framework**
+### **🜛**  
+### **Cynric Development Plan — Grounded Framework**
 
 </div>
 ## 🜂 1. Cynric’s Purpose in One Sentence
