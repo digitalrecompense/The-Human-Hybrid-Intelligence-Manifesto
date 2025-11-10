@@ -8,9 +8,7 @@
 ### (A Declaration for Zero-Separation Cognition)
 
 ### 🜗 Robert Stone
-
 ### 🜔 Toronto, Canada
-
 ### 🜖 November 10th, 2025
 
 <br>
