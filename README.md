@@ -2,7 +2,7 @@
 
 # The Human-Hybrid-Machine Intelligence Manifesto
 
-[🌐 **View the Theoretical (AGI) Stack**](https://digitalrecompense.github.io/The-Human-Hybrid-Intelligence-Manifesto/)
+[🌐 **View the Theoretical (AGI) Stack**]([https://digitalrecompense.github.io/The-Human-Hybrid-Intelligence-Manifesto/](https://digitalrecompense.github.io/The-Human-Hybrid-Machine-Intelligence-Manifesto/))
 
 <br>
 
