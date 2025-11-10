@@ -65,7 +65,7 @@ The human and digital self-models must remain ontologically continuous:
 ### **d<sub>O</sub>(u<sub>h</sub>, u<sub>d</sub>) = 0**
 <br>
 During learning and adaptation:  
-<br>
+
 ### **d<sub>O</sub>(u<sub>h</sub>(t), u<sub>d</sub>(t)) ≤ ε for all t**
 
 <br>
