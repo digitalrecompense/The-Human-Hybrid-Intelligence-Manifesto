@@ -203,7 +203,7 @@ Formally, C.Y.N.R.I.C. stands for
 
 Co-evolutionary Yield Network for Relationally Integrated Cognition
 
-<br><br>
+<br>
 
 ### 🝩  
 ### **Breakdown**
