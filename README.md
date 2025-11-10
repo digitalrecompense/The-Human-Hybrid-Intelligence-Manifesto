@@ -1,4 +1,4 @@
-#The Human-Hybrid Intelligence Manifesto
+# The Human-Hybrid Intelligence Manifesto
 **By Robert Stone** 
 
 [🌐 **View the Theoretical (AGI) Stack**](https://digitalrecompense.github.io/The-Human-Hybrid-Intelligence-Manifesto/)
