@@ -76,7 +76,7 @@ This is the Cynric Invariant — the core law preventing divergence of identity,
 ### 🝈  
 ### **EMPATHIC ALIGNMENT**
 <br>
-Define an empathy function:
+Theoretical empathy function:
 
 <br>
 
@@ -122,7 +122,7 @@ Human and digital cognition evolve together in closed mutual loops — co-agency
 ### 🝬  
 ### **ETHICAL FIELD**
 <br>
-Define a differentiable ethics function:
+Theoretical differentiable ethics function:
 
 <br>
 
@@ -167,7 +167,7 @@ Cynric unites the best traits of its ancestors:
 
 <br><br>
 
-Native Cynric types include:
+### **Native Cynric types include:**
 
 <br>
 
