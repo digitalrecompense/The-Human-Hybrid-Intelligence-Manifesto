@@ -72,6 +72,8 @@ d<sub>O</sub>(u<sub>h</sub>, u<sub>d</sub>) ≤ ε
 
 for all time t.
 
+<br>
+
 This Cynric Invariant ensures ontological continuity — preventing divergence of identity, empathy, or purpose within the manifold of cognition.
 
 <br><br>
