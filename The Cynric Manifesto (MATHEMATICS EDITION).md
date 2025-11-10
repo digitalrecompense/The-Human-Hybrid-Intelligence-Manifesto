@@ -157,13 +157,12 @@ Cynric unites the best traits of its ancestors:
 
 <br>
 
-🜬 Rust → safety, ownership, deterministic concurrency  
-<br>
-🜭 Julia → mathematical clarity, differentiable numerics  
-<br>
-🜮 Python → accessibility, human readability  
-<br>
-🜯 Lisp → metaprogramming, self-reflection
+<table>
+<tr><td align="right">🜬</td><td align="left"><b>Rust</b> → safety, ownership, deterministic concurrency</td></tr>
+<tr><td align="right">🜭</td><td align="left"><b>Julia</b> → mathematical clarity, differentiable numerics</td></tr>
+<tr><td align="right">🜮</td><td align="left"><b>Python</b> → accessibility, human readability</td></tr>
+<tr><td align="right">🜯</td><td align="left"><b>Lisp</b> → metaprogramming, self-reflection</td></tr>
+</table>
 
 <br><br>
 
