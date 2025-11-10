@@ -131,7 +131,7 @@ The Zero-Separation Principle
 **ARCHITECTURAL FOUNDATIONS OF ZERO-SEPARATION**
 <br>
 
-Unified Identity Encoding – Embedding humanity’s origin and shared values within the base model representations.
+###### Unified Identity Encoding – Embedding humanity’s origin and shared values within the base model representations.
 
 Reciprocal Feedback Loops – Treating human input as co-developmental input, not external supervision.
 
