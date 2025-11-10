@@ -42,6 +42,7 @@ B = (H × D × C × P)
 </div>
 
 <div align="center">
+<br>
 Where:
 </div>
 <br>
