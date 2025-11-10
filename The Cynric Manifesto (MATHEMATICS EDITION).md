@@ -2,7 +2,7 @@
 
 # 🜛  
 # **THE CYNRIC MANIFESTO**  
-### *(MATHEMATICS EDITION)*  
+### *(THEORETICAL MATHEMATICS EDITION)*  
 
 🜗 Robert Stone  
 🜔 Toronto, Canada  
