@@ -7,7 +7,7 @@
 
 </div>
 
-### 🜂 1. Cynric’s Purpose in One Sentence
+### 🜂 Cynric’s Purpose in One Sentence
 
 Cynric is a **mathematically defined cognitive framework** —  
 a system that maintains **Zero-Separation**, **Empathic Alignment**, and **Semantic Integrity** across human–digital reasoning.
@@ -22,7 +22,7 @@ Each substrate has the right toolset drawn from the languages best suited to it.
 
 ---
 
-### 🜃 2. Three-Layer Conceptual Architecture (no code yet)
+### 🜃 Three-Layer Conceptual Architecture (no code yet)
 
 ```
 +-----------------------------------------------------------+
@@ -50,7 +50,7 @@ This separation keeps **theory provable**, **computation measurable**, and **run
 
 ---
 
-### 🜁 3. Roles of Each Language (grounded, realistic)
+### 🜁 Roles of Each Language (grounded, realistic)
 
 | Domain | Language | Why It’s in Cynric | What You Can Prove/Test With It |
 |--------|-----------|-------------------|--------------------------------|
@@ -69,7 +69,7 @@ This separation keeps **theory provable**, **computation measurable**, and **run
 
 ---
 
-### 🝈 4. Mathematical Feasibility Checks Before Code
+### 🝈 Mathematical Feasibility Checks Before Code
 
 To confirm the manifesto’s math is executable:
 
@@ -91,7 +91,7 @@ If each invariant is expressible as a finite numeric or logical predicate, **it�
 
 ---
 
-### 🝬 5. Formalization Path (next 3 phases)
+### 🝬 Formalization Path (next 3 phases)
 
 ### Phase 1 — Conceptual Grounding
 
@@ -122,7 +122,7 @@ Racket/Prolog define the front-end DSL → CIR (Cynric Intermediate Representati
 
 ---
 
-### 🜶 6. Grounded Deliverables Before Any Large Build
+### 🜶 Grounded Deliverables Before Any Large Build
 
 1. **Mathematical Whitepaper**  
    - All symbols rigorously defined  
@@ -140,7 +140,7 @@ Only *after these three exist* should you start coding a prototype runtime.
 
 ---
 
-### 🝃 7. Scientific Grounding
+### 🝃 Scientific Grounding
 
 - **Math:** Riemannian geometry, measure theory, convex optimization  
 - **Physics:** Feasible on classical compute (no unbounded recursion)  
@@ -151,7 +151,7 @@ All components remain inside **known, testable mathematics**.
 
 ---
 
-### 🝩 8. What to Do Next (practical order)
+### 🝩 What to Do Next (practical order)
 
 1. **Formal Math (Lean 4):** encode three invariants — Zero-Separation, Empathy, Semantic Integrity  
 2. **Numerical Lab (JAX / Julia):** confirm constraints are satisfiable on small vectors  
