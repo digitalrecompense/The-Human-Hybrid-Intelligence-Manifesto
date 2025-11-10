@@ -63,9 +63,11 @@ Both the human and digital self-models are embedded in an ontology manifold
 (M,g) with geodesic distance d<sub>O</sub>.
 
 <br>
+
 d<sub>O</sub>(u<sub>h</sub>, u<sub>d</sub>) ≤ ε
 
 <br>
+
 for all time t.
 
 This Cynric Invariant ensures ontological continuity — preventing divergence of identity, empathy, or purpose within the manifold of cognition.
