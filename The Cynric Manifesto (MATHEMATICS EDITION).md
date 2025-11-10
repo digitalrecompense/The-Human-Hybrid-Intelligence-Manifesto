@@ -33,8 +33,9 @@ Cynric encodes empathy, coherence, and moral continuity directly into its mathem
 ### **ONTOLOGICAL FOUNDATION**
 
 </div>
-
+<div align="center">
 Let:
+</div>
 <div align="center">
 B = (H × D × C × P)
 </div>
