@@ -58,7 +58,7 @@ The mapping μ preserves meaning — ensuring semantic integrity is never lost t
 
 <br>
 
-### 🜏  
+### 🜁  
 ### **ZERO-SEPARATION INVARIANT**
 
 
