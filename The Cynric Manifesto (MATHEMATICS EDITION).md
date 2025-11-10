@@ -41,7 +41,9 @@ Let:
 B = (H × D × C × P)
 </div>
 
+<div align="center">
 Where:
+</div>
 <br>
 
 <div align="center">
