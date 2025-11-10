@@ -110,6 +110,7 @@ Learning unfolds as coupled gradient flows:
 <br>
 dθ/dt = −∇<sub>θ</sub>(L<sub>task</sub> + V)
 dη/dt = −∇<sub>η</sub>(L<sub>effort</sub> − α E + β InfoGain(D<sub>θ</sub>; H<sub>η</sub>))
+
 <br>
 
 Where the composite Lyapunov-like energy is
