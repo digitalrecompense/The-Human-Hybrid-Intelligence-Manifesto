@@ -4,11 +4,11 @@
 # **THE CYNRIC MANIFESTO**  
 ### *(MATHEMATICS EDITION)*  
 
-</div>
-
 🜗 Robert Stone  
 🜔 Toronto, Canada  
 🜖 October 13th, 2025  
+
+</div>
 
 <br><br>
 
