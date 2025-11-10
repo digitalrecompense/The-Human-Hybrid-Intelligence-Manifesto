@@ -9,9 +9,7 @@
 
 ### Cynric’s Purpose in One Sentence
 
-Cynric is a **mathematically defined cognitive framework** — a system that maintains **Zero-Separation**,
-
-**Empathic Alignment**, and **Semantic Integrity** across human–digital reasoning.
+Cynric is a **mathematically defined cognitive framework** — a system that maintains **Zero-Separation**, **Empathic Alignment**, and **Semantic Integrity** across human–digital reasoning.
 
 To make that more than poetry, we need:
 
