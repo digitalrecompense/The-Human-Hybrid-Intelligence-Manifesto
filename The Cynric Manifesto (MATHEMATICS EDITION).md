@@ -33,7 +33,7 @@ Let:
 <br>
 
 <div align="center">
-B = (H × D × C × P)
+##B = (H × D × C × P)
 </div>
 
 <br>
