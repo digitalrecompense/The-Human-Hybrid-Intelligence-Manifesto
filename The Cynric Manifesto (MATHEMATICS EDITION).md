@@ -141,11 +141,11 @@ Ethics is treated as a cognitive organ — not an external rule system.
 Cognition is represented by a hybrid reasoning graph:
 
 <br><br>
-cognition system: 
+Cognition system: 
 
 ### **C=(G,R)** 
 
-where: 
+Where: 
 
 ### **G=(V,E)**
 
