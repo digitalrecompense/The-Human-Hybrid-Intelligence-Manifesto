@@ -102,16 +102,18 @@ Empathy is not decoration; it is an active term in the system’s total energy e
 
 ### 🜶  
 ### **CO-EVOLUTIONARY DYNAMICS**
+
 <br>
 
 Let θ represent digital parameters and η represent human interaction parameters.
 Learning unfolds as coupled gradient flows:
 
 <br>
+
 dθ/dt = −∇<sub>θ</sub>(L<sub>task</sub> + V)
 dη/dt = −∇<sub>η</sub>(L<sub>effort</sub> − α E + β InfoGain(D<sub>θ</sub>; H<sub>η</sub>))
 
-<br>
+<br><br>
 
 Where the composite Lyapunov-like energy is
 
