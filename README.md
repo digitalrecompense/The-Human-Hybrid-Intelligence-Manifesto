@@ -7,7 +7,7 @@ The Human-Hybrid Intelligence Manifesto
 
 A Declaration for Zero-Separation Cognition
 
-By: Robert R. S. Perreault, Toronto
+By: Robert Stone, Toronto
 
 10/13/25
 
