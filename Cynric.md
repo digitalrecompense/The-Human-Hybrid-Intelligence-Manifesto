@@ -54,6 +54,7 @@ The mapping μ is Lipschitz-continuous with constant L<sub>μ</sub>, ensuring th
 <br>
 
 Both the human and digital self-models are embedded in an ontology manifold:
+
 <br>
 
 (
