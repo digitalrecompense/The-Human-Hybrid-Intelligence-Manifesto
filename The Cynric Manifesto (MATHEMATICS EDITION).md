@@ -40,17 +40,22 @@ B = (H × D × C × P)
 </div>
 
 Where:
+<br>
+
 <div align="center">
-H = human cognitive state
 
-D = digital self-model
+<table>
+<tr><td align="left"><b>H</b></td><td>= human cognitive state</td></tr>
+<tr><td align="left"><b>D</b></td><td>= digital self-model</td></tr>
+<tr><td align="left"><b>C</b></td><td>= shared contextual field (temporal, social, affective)</td></tr>
+<tr><td align="left"><b>P</b></td><td>= physical world</td></tr>
+</table>
 
-C = shared contextual field (temporal, social, affective)
-
-P = physical world
 </div>
+
 <br><br>
 This combined structure is called beliefspace.
+
 <br><br>
 <div align="center">
 Beliefspace defines probability distributions over propositions P:
