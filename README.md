@@ -1,7 +1,7 @@
 # ⟢The Human-Hybrid Intelligence Manifesto⟣ 
 **By Robert Stone** 
 
-[🌐 **View the Live AGI Stack Visualization**](https://digitalrecompense.github.io/The-Human-Hybrid-Intelligence-Manifesto/)
+[🌐 **View the Theoretical (AGI) Stack**](https://digitalrecompense.github.io/The-Human-Hybrid-Intelligence-Manifesto/)
 
 The Human-Hybrid-Machine Intelligence Manifesto: A Declaration for Zero-Separation Cognition 
 
