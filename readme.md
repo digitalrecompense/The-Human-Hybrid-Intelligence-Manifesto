@@ -176,7 +176,6 @@ The Zero-Separation Principle
 
 ### **⋋**
 Robert Stone
-<br>
 
 RAiTHE INDUSTRIES INC. © 2025
 
