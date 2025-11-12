@@ -1,10 +1,8 @@
 # Theoretical Cynric-AGI
 
 [![arXiv](https://img.shields.io/badge/arXiv-math.LO-red.svg)](https://arxiv.org/)
-[![Status](https://img.shields.io/badge/Status-Research--Ready-orange.svg)](./)
+[![Status](https://img.shields.io/badge/Status-Research--Ready-RED.svg)](./)
 [![Framework](https://img.shields.io/badge/Framework-Cynric--AGI-blue.svg)](./)
-
-> **📝 Setup Note**: Replace `YOUR_USERNAME`, `YOUR_REPO_NAME`, and `YOUR_INVITE_CODE` with your actual GitHub username, repository name, and community links when setting up this repository.
 
 > **A Revolutionary Theoretical Framework for Zero-Separation Human-AI Co-Evolution**
 
