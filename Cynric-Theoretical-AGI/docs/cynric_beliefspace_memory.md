@@ -1,4 +1,5 @@
-# Cynric Beliefspace Memory System: A Unified Cognitive Continuum for Persistent Memory
+# Cynric Beliefspace Memory System: 
+A Unified Cognitive Continuum for Persistent Memory
 
 ## Executive Summary and Narrative Arc
 
