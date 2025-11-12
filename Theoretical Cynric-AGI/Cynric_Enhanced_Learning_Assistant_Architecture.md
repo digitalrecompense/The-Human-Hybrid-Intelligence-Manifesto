@@ -1,4 +1,6 @@
-# Cynric-Enhanced Learning Assistant Architecture: The World's First Zero-Separation Compliant System
+# Cynric-Enhanced Learning Assistant Architecture: 
+
+The World's First Zero-Separation Compliant System
 
 ## 1. Executive Summary: A New Paradigm for Human-AI Partnership
 
